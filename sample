@@ -1,0 +1,3 @@
+MONGO_DB = ABC
+TOKEN_SECRET = aniket
+DOMAIN = http://localhost:300
